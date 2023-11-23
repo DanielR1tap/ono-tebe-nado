@@ -13,12 +13,14 @@
     }
     .header_logo_black{
     width: 148px;
-    height: 105px;}
+    height: 105px;
+}
     .header_menu-list {
     display: flex;
     font-size: 18px;
     gap: 31px;
-    list-style: circle;}
+    list-style: circle;
+}
     .header_link {
     text-decoration: none;
     }
