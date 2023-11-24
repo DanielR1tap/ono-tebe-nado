@@ -1,5 +1,5 @@
-body { 
-width: auto; 
+body {
+width: auto;
 margin: auto;
 } 
 .header {
@@ -76,7 +76,7 @@ position: relative;
 top: 165px;
 left: 50px;
 width: 1340px;
-line-height: 115%; 
+line-height: 115%;
 letter-spacing: 30px;
 }
 .aligned-text-right {
